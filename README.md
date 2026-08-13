@@ -1,6 +1,6 @@
 # Deep Learning for Protein--Protein Binding-Site Prediction
 
-A curated resource page for papers, code, webservers, datasets, and benchmarks related to **protein--protein binding-site (PPBS) prediction**.
+A curated resource page for papers, code, webservers, datasets, and benchmarks related to **protein-protein binding-site (PPBS) prediction**.
 
 > This repository accompanies the survey **“Deep Learning for Protein--Protein Binding Site Prediction: Formulations, Representations, and Learning Paradigms.”**  
 > The manuscript is currently in preparation; the public paper/preprint link will be added here after release.
