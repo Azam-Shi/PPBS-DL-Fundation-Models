@@ -119,9 +119,4 @@ The list focuses on methods reviewed in the survey and closely related resources
 | **IntAct** | Curated molecular interaction database | https://www.ebi.ac.uk/intact/ |
 | **BioGRID** | Curated protein and genetic interaction database | https://thebiogrid.org/ |
 
----
-
-## Maintainers
-
-- Azam Shirali, Florida International University
 
