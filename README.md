@@ -7,13 +7,6 @@ A curated resource page for papers, code, webservers, datasets, and benchmarks r
 
 ---
 
-## News
-
-- **[2026.xx]** Survey manuscript in preparation.
-- **[2026.xx]** Curated PPBS papers, code repositories, webservers, and benchmarks organized by task formulation.
-
----
-
 ## Contents
 
 - [Scope](#scope)
