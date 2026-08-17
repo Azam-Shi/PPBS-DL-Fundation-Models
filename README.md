@@ -32,17 +32,6 @@ The list focuses on methods reviewed in the survey and closely related resources
 
 ---
 
-## Problem Formulations
-
-| Formulation | Typical input | Typical output | Main use case |
-|---|---|---|---|
-| **Partner-independent** | One protein sequence, structure, or surface | Per-residue / per-atom / per-surface-point binding probability | General interface propensity when the partner is unknown |
-| **Partner-aware** | Query protein plus candidate partner | Partner-conditioned binding residues on one or both proteins | Multi-partner proteins, transient interactions, peptide-mediated interactions |
-| **Residue-pair contact** | Two proteins, often with sequence/MSA/structure features | Inter-chain residue--residue contact map | Docking restraints, complex modeling, interface contact recovery |
-| **Hot-spot / mutation-effect** | Interface residues, complex structure, or mutation context | Hot-spot label or ΔΔG / affinity change | Mutagenesis, variant interpretation, protein engineering |
-
----
-
 ## Papers and Code
 
 **Link status.** Code/server links are included when a public repository or webserver could be identified. `TBD` means that a direct public implementation link should be checked before posting the final repository.
