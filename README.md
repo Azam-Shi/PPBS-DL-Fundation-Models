@@ -97,16 +97,6 @@ The list focuses on methods reviewed in the survey and closely related resources
 | **Embed-1dCNN** | 2023 | Pretrained sequence embeddings + 1D CNN for hot-spot classification | [Search](https://scholar.google.com/scholar?q=Embed-1dCNN+protein+protein+hotspot+prediction+pretrained+embeddings) | TBD |
 | **PPI-hotspots with PLMs** | 2024 | ESM2/PLM representations for sparse-data hot-spot prediction | [Search](https://scholar.google.com/scholar?q=Sargsyan+Lim+2024+PPI+hotspots+protein+language+models) | TBD |
 
-### Related / adjacent methods
-
-| Method | Relation to PPBS | Paper | Code / server |
-|---|---|---|---|
-| **DeepRank** | Interface analysis and docking-model ranking rather than direct residue-level PPBS prediction | [Paper](https://www.nature.com/articles/s41467-021-27396-0) | [Project](https://github.com/DeepRank) |
-| **ProInterVal** | Interface validation and docking/crystallographic interface classification | [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01788) | [Code](https://github.com/ku-cosbi/ProInterVal) |
-| **PIsToN** | Surface-patch interface scoring / docking-model evaluation, related to PPBS applications | [Search](https://scholar.google.com/scholar?q=PIsToN+protein+interface+scoring+vision+transformer) | TBD |
-| **DeepSite** | Small-molecule ligand pocket prediction using 3D CNNs | [Paper](https://academic.oup.com/bioinformatics/article/33/19/3036/3859178) | TBD |
-| **BiteNet** | Druggable pocket prediction over voxelized structures and MD conformations | [Paper](https://www.nature.com/articles/s42003-020-01350-0) | TBD |
-
 ---
 
 ## Datasets and Benchmarks
