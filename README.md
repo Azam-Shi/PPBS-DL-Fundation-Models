@@ -24,9 +24,9 @@ A curated resource page for papers, code, webservers, datasets, and benchmarks r
 
 ---
 
-## Scope
+## PPBS
 
-Protein--protein binding-site prediction asks **where one protein binds another**: which residues, atoms, residue pairs, or surface regions participate in an interaction. This repository follows a formulation-centered organization because methods that are all called “interface prediction” often solve different computational tasks.
+Protein--protein binding-site (PPBS) prediction asks **where one protein binds another**: which residues, atoms, residue pairs, or surface regions participate in an interaction. This repository follows a formulation-centered organization because methods that are all called “interface prediction” often solve different computational tasks.
 
 The list focuses on methods reviewed in the survey and closely related resources. Some tools span multiple formulations or address adjacent tasks such as docking-model scoring, peptide-binding-site prediction, interface validation, or mutation-effect prediction; these are marked where appropriate.
 
