@@ -34,7 +34,7 @@ The list focuses on methods reviewed in the survey and closely related resources
 
 ## Papers and Code
 
-**Link status.** Code/server links are included when a public repository or webserver could be identified. `TBD` means that a direct public implementation link should be checked before posting the final repository.
+Code/server links are included when a public repository or webserver could be identified. `TBD` means that a direct public implementation link should be checked before posting the final repository.
 
 ### Partner-independent PPBS prediction
 
