@@ -40,7 +40,7 @@ Code/server links are included when a public repository or webserver could be id
 
 | Method | Year | Representation / architecture | Paper | Code / server |
 |---|---:|---|---|---|
-| **BiMba** | 2026 | Surface patches as 2D multi-channel grids + residue descriptors; bidirectional Vision Mamba | TBD after public release | TBD after public release |
+| **BiMba** | 2026 | Surface patches as 2D multi-channel grids + residue descriptors; bidirectional Vision Mamba | [Paper](https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag243/8726357) | [Code](https://github.com/Azam-Shi/BiMba) |
 | **DeepPPISP** | 2020 | Sequence features; CNN with local and global sequence context | [Paper](https://academic.oup.com/bioinformatics/article/36/4/1114/5564115) | [Code](https://github.com/CSUBioGroup/DeepPPISP) |
 | **DeepProSite** | 2023 | ESMFold-predicted structures + PLM embeddings; topology-aware Graph Transformer | [Paper](https://academic.oup.com/bioinformatics/article/39/12/btad718/7453375) | [Code](https://github.com/WeiLab-Biology/DeepProSite) |
 | **dMaSIF** | 2021 | Surface point cloud; fast differentiable molecular surface learning | [Paper](https://arxiv.org/abs/2012.04070) | [Code](https://github.com/FreyrS/dMaSIF) |
