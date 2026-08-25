@@ -10,7 +10,6 @@ A curated resource page for papers, code, webservers, datasets, and benchmarks r
 ## Contents
 
 - [Scope](#scope)
-- [Problem Formulations](#problem-formulations)
 - [Papers and Code](#papers-and-code)
   - [Partner-independent PPBS prediction](#partner-independent-ppbs-prediction)
   - [Partner-aware PPBS prediction](#partner-aware-ppbs-prediction)
@@ -18,8 +17,6 @@ A curated resource page for papers, code, webservers, datasets, and benchmarks r
   - [Hot-spot and mutation-effect prediction](#hot-spot-and-mutation-effect-prediction)
   - [Related / adjacent methods](#related--adjacent-methods)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
 - [Citation](#citation)
 
 ---
