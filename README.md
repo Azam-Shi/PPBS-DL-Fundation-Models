@@ -9,7 +9,7 @@ A curated resource page for papers, code, webservers, datasets, and benchmarks r
 
 ## Contents
 
-- [Scope](#scope)
+- [Introduction](#scope)
 - [Papers and Code](#papers-and-code)
   - [Partner-independent PPBS prediction](#partner-independent-ppbs-prediction)
   - [Partner-aware PPBS prediction](#partner-aware-ppbs-prediction)
