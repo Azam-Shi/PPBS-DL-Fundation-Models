@@ -15,7 +15,6 @@ A curated resource page for papers, code, webservers, datasets, and benchmarks r
   - [Partner-aware PPBS prediction](#partner-aware-ppbs-prediction)
   - [Residue-pair contact prediction](#residue-pair-contact-prediction)
   - [Hot-spot and mutation-effect prediction](#hot-spot-and-mutation-effect-prediction)
-  - [Related / adjacent methods](#related--adjacent-methods)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Citation](#citation)
 
